@@ -1,0 +1,5 @@
+*.vcd
+*.log
+build/
+*.o
+.DS_Store
